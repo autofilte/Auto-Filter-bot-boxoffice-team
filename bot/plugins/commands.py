@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Our Group', url="https://t.me/boxofficegroups"
+                                    '⭕️Join To Channel⭕️', url="https://t.me/ottmovies_1"
                                 )
                         ]
                     ]
